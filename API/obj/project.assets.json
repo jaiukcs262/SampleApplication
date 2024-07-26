@@ -3168,6 +3168,7 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/wtwcrb/Wtw.Crb.Common/_packaging/wtw.crb.common/nuget/v3/index.json": {},
         "https://pkgs.dev.azure.com/wtwcrb/Wtw.Crb.Common/_packaging/wtw.crb.common/nuget/v3/index.json": {}
       },
       "frameworks": {
@@ -3234,5 +3235,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/wtwcrb/Wtw.Crb.Common/_packaging/wtw.crb.common/nuget/v3/index.json."
+    }
+  ]
 }
