@@ -114,3 +114,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/.vs/SampleApplication/FileContentIndex/0a30f49b-ab99-4f7f-bd7d-de3cb6e7bf55.vsidx
+/.vs/SampleApplication/FileContentIndex/37f5c2aa-957f-41db-af84-919f39de95e9.vsidx
+/.vs/SampleApplication/FileContentIndex/4c31d178-3567-4479-8769-b3c3075f990b.vsidx
+/.vs/SampleApplication/FileContentIndex/611a9d9d-92f7-458a-8669-cddccfac8da9.vsidx
+/.vs/SampleApplication/FileContentIndex/668a98e6-8464-456f-8090-005d7713c882.vsidx
+/.vs/SampleApplication/FileContentIndex/aec7cdfc-d95f-4f22-a533-5e074799de92.vsidx
+/.vs/SampleApplication/FileContentIndex/c75769cf-1b94-42fa-bac2-f601838e3fbb.vsidx
+/.vs/SampleApplication/FileContentIndex/ce530c1c-3f7f-4114-b6c6-5931f2124cf5.vsidx
+/.vs/SampleApplication/FileContentIndex/d73654ee-8b14-45f3-8322-feef4eaca081.vsidx
+/.vs/SampleApplication/FileContentIndex/f7190233-3ad0-4a7e-b7a9-bac76b4a7437.vsidx
+*.vsidx
+*.sqlite
